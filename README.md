@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **Python HTML and other**
-
 - 📫 How to reach me **gopalbhadouriya32@gmail.com**
 
-- ⚡ Fun fact **I always Forgot to eat food when I was Writing Code**
+- ⚡ Fun fact **I always Forgot to eat food when I was Writing Code 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
