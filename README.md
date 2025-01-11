@@ -1,6 +1,7 @@
 ![logo](232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) 
 <h1 align="center">Hi 👋, I'm Rustam Bhadouriya</h1>
 <h3 align="center">A passionate AI/ML & Backend developer from India</h3>
+<h3 align="center">Age - 14 year , class - 8th</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-king-dev&label=Profile%20views&color=0e75b6&style=flat" alt="code-king-dev" /> </p>
 <img align="right" alt="Coding" width="320"src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
 
