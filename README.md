@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **gopalbhadouriya32@gmail.com**
 
